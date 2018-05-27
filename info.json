@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "name": "dima",
+      "age": 24,
+      "surname": "vchenko"
+    },
+    {
+      "name": 'kate',
+      age: 23,
+      surname: 'sparrow'
+    },
+    {
+      name: 'sonia',
+      age: 19,
+      surname: 'sheliakova'
+    },
+    {
+      name: 'dima',
+      age: 19,
+      surname: 'kostomaha'
+    },
+    {
+      name: 'olya',
+      age: 20,
+      surname: 'kass'
+    },
+    {
+      name: 'natasha',
+      age: 21,
+      surname: 'kasynets'
+    },
+    {
+      name: 'diana',
+      age: 22,
+      surname: 'talavira'
+    },
+    {
+      name: 'masha',
+      age: 23,
+      surname: 'matata'
+    },
+    {
+      name: 'darina',
+      age: 24,
+      surname: 'kosenko'
+    },
+    {
+      name: 'dasha',
+      age: 25,
+      surname: 'sheliakova'
+    },
+    {
+      name: 'ira',
+      age: 26,
+      surname: 'sheliakova'
+    },
+    {
+      name: 'galya',
+      age: 27,
+      surname: 'sheliakova'
+    },
+    {
+      name: 'dana',
+      age: 28,
+      surname: 'krasnogolovets'
+    },
+    {
+      name: 'yulya',
+      age: 29,
+      surname: 'pelih'
+    },
+    {
+      name: 'anna',
+      age: 30,
+      surname: 'pogribnyak'
+    },
+    {
+      name: 'nina',
+      age: 31,
+      surname: 'ivanova'
+    },
+    {
+      name: 'eva',
+      age: 32,
+      surname: 'orlik'
+    },
+    {
+      name: 'milena',
+      age: 33,
+      surname: 'kostomaha'
+    },
+    {
+      name: 'sveta',
+      age: 34,
+      surname: 'volovina'
+    },
+    {
+      name: 'sasha',
+      age: 35,
+      surname: 'vashenko'
+    },
+    {
+      name: 'serega',
+      age: 36,
+      surname: 'tyshchenko'
+    },
+    {
+      name: 'yan',
+      age: 37,
+      surname: 'sokolovskyy'
+    },
+    {
+      name: 'mike',
+      age: 38,
+      surname: 'gidirli'
+    },
+    {
+      name: 'vlad',
+      age: 39,
+      surname: 'lyashenko'
+    },
+    {
+      name: 'igor',
+      age: 40,
+      surname: 'tsapro'
+    }
+  ]
+}

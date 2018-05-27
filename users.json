@@ -1,0 +1,39 @@
+{
+  "users": [ {
+    "name": "dima",
+    "age": 24,
+    "surname": "vchenko"
+  }, {
+    "name" : "sonia",
+    "age": 19,
+    "surname": "sheliakova"
+  }, {
+    "name" : "vova",
+    "age": 25,
+    "surname": "stepanuk"
+  }, {
+    "name": "yarik",
+    "age": 27,
+    "surname": "shepelevich"
+  }, {
+    "name" : "sergei",
+    "age": 18,
+    "surname": "tishchenko"
+  }, {
+    "name" : "darina",
+    "age": 22,
+    "surname": "kosenko"
+  }, {
+    "name": "diana",
+    "age": 21,
+    "surname": "talavira"
+  }, {
+    "name" : "masha",
+    "age": 26,
+    "surname": "matata"
+  }, {
+    "name" : "natasha",
+    "age": 20,
+    "surname": "kasynets"
+  } ]
+}

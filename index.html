@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+</head>
+<body>
+    <table border="1">
+        <tr><td>Name</td><td>Age</td><td>Surname</td><tr>
+    </table>
+
+    <script type="text/javascript">
+        $(function(){
+            $.getJSON('users.json', function(data) {
+                for(var i=0;i<data.users.length;i++){
+                    $('#users').append('<tr><td>' + data.users[i].name + '</td><td>' + data.users[i].age +
+                        '</td><td>' + data.users[i].surname + '</td><tr>');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
